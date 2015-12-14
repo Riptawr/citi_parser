@@ -3,6 +3,8 @@
 Simple script i wrote to return a sorted list of top withdrawals from citibank csv statements. 
 Currently only credit card accounts and statements, starting with 'ACCT' are supported  
 
+![citi_parser.png](./citi_parser.png)
+
 ### Dependencies:  
 - [Pandas](http://pandas.pydata.org)
 - [python-matplotlib](http://matplotlib.org/users/installing.html)
